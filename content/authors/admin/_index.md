@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jeremy M. Myers
+title: Jeremy Moulton Myers
 
 # Username (this should match the folder name)
 authors:
