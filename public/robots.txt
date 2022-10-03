@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://aesthetic-fox-10e2e8.netlify.app/sitemap.xml
