@@ -5,16 +5,16 @@
 
 main:
  - name: Home
-   url: '#about'
+   url: '#bio'
    weight: 10
+ - name: Education
+   url: '#education'
+   weight: 20
+ - name: Experience
+   url: '#experience'
+   weight: 30
  - name: Posts
    url: '#posts'
-   weight: 20
- - name: Projects
-   url: '#projects'
-   weight: 30
- - name: Talks
-   url: '#talks'
    weight: 40
  - name: Publications
    url: '#featured'
@@ -24,7 +24,6 @@ main:
    weight: 60
 
 #Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
- - name: CV1
-   url: uploads/jeremy-myers-cv.pdf
+ - name: CV
+   url: uploads/jeremy-m-myers-cv.pdf
    weight: 70

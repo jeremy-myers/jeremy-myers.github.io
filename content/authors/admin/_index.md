@@ -51,7 +51,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jeremy.moulton.myers@icloud.com'
+  link: 'mailto:jmmyers01@wm.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/myjeremyers
@@ -65,7 +65,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/jeremy-myers-cv.pdf
+  link: uploads/jeremy-m-myers-cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
