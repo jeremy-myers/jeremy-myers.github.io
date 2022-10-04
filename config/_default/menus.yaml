@@ -9,21 +9,21 @@ main:
    weight: 10
  - name: About
    url: '#about'
-   weight: 60
+   weight: 50
  - name: Education
    url: '#education'
-   weight: 30
+   weight: 20
  - name: Experience
    url: '#experience'
-   weight: 40
+   weight: 30
  - name: Publications
    url: '#publications'
-   weight: 50
+   weight: 40
  - name: Contact
    url: '#contact'
-   weight: 70
+   weight: 60
 
 #Link to a PDF of your resume/CV from the menu.
  - name: CV
    url: uploads/jeremy-m-myers-cv.pdf
-   weight: 20
+   weight: 70
