@@ -1,4 +1,0 @@
-tasks:
-  - name: "Serve Website"
-    init: brew install hugo
-    command: bash view.sh
