@@ -1,7 +1,7 @@
 {
   "name": "jeremy-myers.github.io",
   "version": "1.0.0",
-  "description": "### Exclusive to [Sponsors](https://github.com/sponsors/gcushen): ❤️ Thanks for your support ❤️",
+  "description": ""
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,11 +15,12 @@
   "bugs": {
     "url": "https://github.com/jeremy-myers/jeremy-myers.github.io/issues"
   },
-  "homepage": "https://github.com/jeremy-myers/jeremy-myers.github.io#readme",
+  "homepage": "https://github.com/jeremy-myers/jeremy-myers.github.io",
   "dependencies": {
     "package.json": "^0.0.0"
   },
   "devDependencies": {
+    "hugo-extended": "^0.104.2",
     "netlify-cli": "^2.12.0"
   }
 }
