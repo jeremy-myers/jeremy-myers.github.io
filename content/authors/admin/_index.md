@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jeremy Moulton Myers
+title: Jeremy M. Myers
 
 # Username (this should match the folder name)
 authors:
@@ -57,7 +57,7 @@ social:
   link: https://twitter.com/myjeremyers
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.com/citations?user=pmz_9xAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/jeremy-myers
@@ -66,31 +66,4 @@ social:
 - icon: cv
   icon_pack: ai
   link: uploads/jeremy-m-myers-cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- []
-- []
 ---
-
-I am a 5th year Ph.D Candidate under the supervision of Dr. Andreas
-Stathopoulos in the Computer Science Department at the College of William and
-Mary.  Since 2019, I have also conducted doctoral research under the
-supervision of Dr. Daniel Dunlavy at Sandia National Laboratories in
-Albuquerque, NM, and Livermore, CA.  My work lies at the intersection
-of numerical linear algebra, machine learning, data science, and high
-performance computing. Specifically, my research focuses on
-streaming/sketching spectral decompositions and tensor decompositions.
-Most recently, my research has appeared in IEEE HPEC20 \& IEEE HPEC21.
-I received a B.S. and a M.S. in Mathematical Sciences from Virginia
-Commonwealth University in Richmond, VA, in 2014 and 2017,
-respectively, and a B.A. in International Affairs from James Madison
-University in Harrisonburg, VA, in 2009.
-
-I enjoy trail running, gravel cycling, loud music, German and Russian
-languages, and South American food. I live in the Portland, OR area
-with my wife and our two dogs.

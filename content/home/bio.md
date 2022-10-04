@@ -31,13 +31,3 @@ advanced:
   
 author: admin
 ---
-
-I am a 6th year PhD Candidate at the College of William and Mary.
-
-## My Mission
-
-Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
-
-## Specialties
-
-Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing

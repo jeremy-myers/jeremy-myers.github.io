@@ -17,7 +17,7 @@ experience:
   company_url: ''
   location: California
   date_start: '2019-06-03'
-  description: Sparse tensor canonical polyadic decomposition, Poisson tensor factorization, HPC software, Software comparison
+  description: Researching algorithms and software for sparse tensor canonical polyadic decomposition.
 
 - title: "Research Assistant"
   company: "College of William & Mary"
@@ -25,7 +25,7 @@ experience:
   location: "Williamsburg, VA"
   date_start: "2019-09-01"
   date_end: ""
-  description: Eigenvalue & singular value decompositions * Streaming/online algorithms * Kernel methods * Randomized SVD * Stopping criteria
+  description: Researching sketching and streaming algorithms for singular value computations.
 
 - title: "Teaching Assistant"
   company: "College of William & Mary"

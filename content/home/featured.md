@@ -1,4 +1,4 @@
----
+<!-- ---
 widget: featured
 headless: true
 weight: 40
@@ -17,4 +17,4 @@ content:
 design:
   view: 3
   columns: '1'
----
+--- -->
