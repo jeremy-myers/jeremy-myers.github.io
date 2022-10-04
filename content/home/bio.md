@@ -19,12 +19,12 @@ design:
     # color: navy
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
-    image: background.jpg  # Name of image in `static/media/`.
+    image: hello.jpg  # Name of image in `static/media/`.
     image_darken: 0.6
     image_size: cover
     image_position: center
     image_parallax: false
-    text_color_light: false
+    text_color_light: true
 advanced:
   css_style:
   css_class: 
