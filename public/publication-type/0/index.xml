@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Jeremy Myers</title>
+    <link>https://jeremy-myers.github.io/publication-type/0/</link>
+      <atom:link href="https://jeremy-myers.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jeremy-myers.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>0</title>
+      <link>https://jeremy-myers.github.io/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Load balancing strategy of parallel performance portable sparse CP-APR decomposition</title>
+      <link>https://jeremy-myers.github.io/publication/teranishi-pp-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://jeremy-myers.github.io/publication/teranishi-pp-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using the power of iterative methods for the SVD in machine learning</title>
+      <link>https://jeremy-myers.github.io/publication/stathopoulos-nasca-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://jeremy-myers.github.io/publication/stathopoulos-nasca-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does machine learning need the power of iterative methods for the SVD?</title>
+      <link>https://jeremy-myers.github.io/publication/stathopoulos-cm-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://jeremy-myers.github.io/publication/stathopoulos-cm-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
