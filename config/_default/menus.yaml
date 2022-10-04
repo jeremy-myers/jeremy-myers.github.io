@@ -9,7 +9,7 @@ main:
    weight: 10
  - name: About
    url: '#about'
-   weight: 70
+   weight: 60
  - name: Education
    url: '#education'
    weight: 30
@@ -21,7 +21,7 @@ main:
    weight: 50
  - name: Contact
    url: '#contact'
-   weight: 60
+   weight: 70
 
 #Link to a PDF of your resume/CV from the menu.
  - name: CV
