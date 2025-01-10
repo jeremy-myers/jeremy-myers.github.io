@@ -14,10 +14,6 @@ Education:
   (2014)
 - B.A. International Affairs, James Madison University, VA (2009)
 
-Interests:
-- Numerical linear algebra algorithms and software
-- Cycling and snowboarding
-
 ---
 
 Reach me at jeremy [dot] moulton [dot] myers [at] gmail [dot] com
