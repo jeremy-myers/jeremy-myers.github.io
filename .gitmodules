@@ -1,3 +1,0 @@
-[submodule "tpls/simple_site"]
-	path = tpls/simple_site
-	url = https://github.com/kbroman/simple_site.git
