@@ -22,7 +22,7 @@ role: Computer Scientist
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Sandia National Laboratories
-    url: http://www.sandia.gov
+    url: https://www.sandia.gov
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
