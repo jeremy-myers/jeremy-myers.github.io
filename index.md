@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jeremy Moulton Myers
+title: 
 tagline: 
 description: 
 ---
