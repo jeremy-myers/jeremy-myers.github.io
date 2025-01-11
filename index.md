@@ -26,6 +26,5 @@ You can find more information in my [curriculum vitae](./assets/jeremy-m-myers-c
 
 **Email**
 
-[work](mailto:jermyer@sandia.gov)
-
-[personal](mailto:jeremy.moulton.myers@gmail.com)
+- [work](mailto:jermyer@sandia.gov)
+- [personal](mailto:jeremy.moulton.myers@gmail.com)
