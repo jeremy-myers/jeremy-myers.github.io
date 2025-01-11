@@ -15,10 +15,14 @@ I'm interested in:
 
 I earned my Ph.D. in Computer Science from The College of William and Mary in 2024.
 
-You can find more information in my curriculum vitae
-[here](./assets/jeremy-m-myers-cv.pdf).
+I develop [skema](https://github.com/jeremy-myers/skema) for matrix sketching.
 
-I live in the Portland, OR area with my wife and our dog.
+Some projects I'm involved with:
+- [pyttb](https://github.com/sandialabs/pyttb)
+- [genten](https://github.com/sandialabs/GenTen)
+- [sparten](https://github.com/sandialabs/sparten)
+
+You can find more information in my [curriculum vitae](./assets/jeremy-m-myers-cv.pdf).
 
 **Email**
 
