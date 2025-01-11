@@ -17,4 +17,8 @@ I earned my Ph.D. in Computer Science from The College of William and Mary in 20
 
 I live in the Portland, OR area with my wife and our dog.
  
-**Email**: [work](mailto:jermyer@sandia.gov) | [personal](mailto:jeremy.moulton.myers@gmail.com)
+**Email**
+
+[work](mailto:jermyer@sandia.gov)
+
+[personal](mailto:jeremy.moulton.myers@gmail.com)
