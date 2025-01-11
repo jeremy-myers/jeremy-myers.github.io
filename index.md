@@ -15,8 +15,11 @@ I'm interested in:
 
 I earned my Ph.D. in Computer Science from The College of William and Mary in 2024.
 
+You can find more information in my curriculum vitae
+[here](./assets/jeremy-m-myers-cv.pdf).
+
 I live in the Portland, OR area with my wife and our dog.
- 
+
 **Email**
 
 [work](mailto:jermyer@sandia.gov)
