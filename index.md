@@ -7,24 +7,21 @@ description:
 
 **Jeremy Myers**
 
-I research algorithms and software at Sandia National Labs.
+I am a research software engineer based in Berlin, Germany.
 
-I'm interested in:
-- matrix and tensor decompositions
-- distributed and parallel computing
+[Say hello: jeremy [dot] moulton [dot] myers [at] gmail [dot] com](mailto:jeremy.moulton.myers@gmail.com)
 
-I earned my Ph.D. in Computer Science from The College of William and Mary in 2024.
+I earned my Ph.D. in Computer Science from the College of William and Mary (US) in 2024.
 
-I develop [skema](https://github.com/jeremy-myers/skema) for matrix sketching.
+Some topics I'm interested in:
+- high performance computing
+- numerical linear algebra
+- parallel programming
 
-Some projects I'm involved with:
+Some projects I am (or have been) involved with:
+- [skema](https://github.com/jeremy-myers/skema)
 - [pyttb](https://github.com/sandialabs/pyttb)
 - [genten](https://github.com/sandialabs/GenTen)
 - [sparten](https://github.com/sandialabs/sparten)
 
 You can find more information in my [curriculum vitae](./assets/jeremy-m-myers-cv.pdf).
-
-**Email**
-
-- [work](mailto:jermyer@sandia.gov)
-- [personal](mailto:jeremy.moulton.myers@gmail.com)
